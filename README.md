@@ -2,7 +2,7 @@
 
 See [jmx_exporter](https://github.com/prometheus/jmx_exporter) for full usage.
 
-This is an example build a Docker image which runs Jetty and exposes JMX statistics for Prometheus over HTTP on port 9093 at /metrics
+This is an example build of a Docker image which runs Jetty and exposes JMX statistics for Prometheus over HTTP on port 9093 at /metrics
 
 ## Build Prometheus JMX Exporter JAR
 
