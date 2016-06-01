@@ -28,4 +28,10 @@ docker build .
 docker run -p 8080:8080 -p 9093:9093 <image ID>
 ```
 
+## Testing it
 
+Form the host machine:
+
+```
+curl localhost:9093/metrics
+```
